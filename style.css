@@ -35,7 +35,7 @@ ul li a{
     color: black;
 }
 .col-md-8{
-    background-image: url("fashion.jpg");
+    background-image: url("images/fashion.jpg");
     background-size: cover;
     color: white;
     font-size: 30px;
@@ -45,14 +45,14 @@ ul li a{
 
 p[class="image1"]{
     color: white;
-    background-image: url("bag.jpg");
+    background-image: url("images/bag.jpg");
     background-size: cover;
     padding-top: 100px;
     font-size: 20px;
 }
 p[class="image2"]{
     color: white;
-    background-image: url("shoe4.jpg");
+    background-image: url("images/shoe4.jpg");
     background-size: cover;
     padding-top: 100px;
     font-size: 20px;
@@ -79,19 +79,19 @@ p[class="mine"]{
 .most{
 padding-top: 70px;
     color: white;
-    background-image: url("shoe7.jpg");
+    background-image: url("images/shoe7.jpg");
     background-size: cover;
 }
 .app{
     padding-top: 70px;
     color: white;
-    background-image: url("shoe4.jpg");
+    background-image: url("images/shoe4.jpg");
     background-size: cover;
 } 
 .gear{
     padding-top: 70px;
 color: white;
-background-image: url("shoe9.jpg");
+background-image: url("images/shoe9.jpg");
 background-size: cover;
 }
 .image{
@@ -109,37 +109,37 @@ background-size: cover;
 .tech{
     padding-top: 70px;
     color: white;
-    background-image: url("shoe2.jpg");
+    background-image: url("images/shoe2.jpg");
     background-size: cover;
 }
 .creative{
     padding-top: 70px;
     color: white;
-    background-image: url("shoe5.jpg");
+    background-image: url("images/shoe5.jpg");
     background-size: cover;
 }
 .podium{
     padding-top: 70px;
     color: white;
-    background-image: url("shoe1.jpg");
+    background-image: url("images/shoe1.jpg");
     background-size: cover;
 }
 .insights{
     padding-top: 70px;
     color: white;
-    background-image: url("shoe2.jpg");
+    background-image: url("images/shoe2.jpg");
     background-size: cover; 
 }
 .launch{
     padding-top: 70px;
     color: white;
-    background-image: url("shoe6.jpg");
+    background-image: url("images/shoe6.jpg");
     background-size: cover;
 }
 .distract{
     padding-top: 70px;
     color: white;
-    background-image: url("10.jpg");
+    background-image: url("images/10.jpg");
     background-size: cover;
 }
 .last{
